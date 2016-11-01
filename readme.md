@@ -1,6 +1,6 @@
 # 🛠
 
-This is a list of tools used by @larucheio.
+This is a non-exhaustive list of tools used by @larucheio.
 
 ## Tools
 
