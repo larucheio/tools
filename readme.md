@@ -23,3 +23,7 @@ This is a non-exhaustive list of tools used by @larucheio.
 ### Social
 
 -   [Buffer](https://buffer.com/) - A better way to share on social media
+
+### Static Forms
+
+-   [Formspree](https://formspree.io/) - Functional HTML forms
