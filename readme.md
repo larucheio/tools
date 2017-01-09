@@ -8,6 +8,7 @@ This is a non-exhaustive list of tools used by @larucheio.
 
 -   [Git](https://git-scm.com/) - Version Control System
 -   [GitHub](https://github.com/) - Home for code
+-   [Jekyll](https://jekyllrb.com/) - Static Websites Generator
 -   [Hugo](http://gohugo.io/) - Static Websites Generator
 -   [Travis](https://travis-ci.org/) - Continuous Integration
 
